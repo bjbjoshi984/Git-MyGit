@@ -1,3 +1,3 @@
 # Git-MyGit
 
-Hello People to my Git-World.
+Hello People, Welcome to my Git-World.
